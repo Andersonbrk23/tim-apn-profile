@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>APN</key>
+					<string>timbrasil.br</string>
+					<key>AuthenticationType</key>
+					<string>PAP</string>
+					<key>Name</key>
+					<string>TIM BRASIL</string>
+					<key>Password</key>
+					<string>tim</string>
+					<key>Username</key>
+					<string>tim</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configuração de APN da TIM Brasil 4G</string>
+			<key>PayloadDisplayName</key>
+			<string>TIM 4G APN</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.example.apn.tim</string>
+			<key>PayloadOrganization</key>
+			<string>TIM Brasil</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>00000000-0000-0000-0000-000000000001</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Perfil para configurar APN TIM Brasil 4G</string>
+	<key>PayloadDisplayName</key>
+	<string>TIM 4G APN</string>
+	<key>PayloadIdentifier</key>
+	<string>com.example.apn.timprofile</string>
+	<key>PayloadOrganization</key>
+	<string>TIM Brasil</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>00000000-0000-0000-0000-000000000002</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
